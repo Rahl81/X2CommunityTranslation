@@ -458,4 +458,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=624793674
 # Shadow Ops Classes For LWOTC
 https://steamcommunity.com/sharedfiles/filedetails/?id=2283957200
 
-* Russian 
+* Russian
+
+# Custom Face Paints
+https://steamcommunity.com/sharedfiles/filedetails/?id=619525059
+
+* Italian 
